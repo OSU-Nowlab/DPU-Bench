@@ -1,0 +1,2 @@
+-n 64 : /global/scratch/users/benjaminm/DPU-related/benchmark-work/RDMA_BENCH/multi-worker-bcast-with-compute.exe -w 64 -m 262144
+-n 64 : /global/scratch/users/benjaminm/DPU-related/benchmark-work/DPU-RDMA_BENCH/multi-worker-bcast-with-compute.exe -w 64 -m 262144

@@ -1,0 +1,24 @@
+# executables
+*.exe
+*.o
+bin
+
+# cscope
+cscope.*
+
+# core files
+core.*
+
+# hostfiles
+./*hostfile*
+hf
+hostfile
+*Hostfile*
+
+# Temporary files
+.*.swp
+.*.swo
+
+# config files
+./*config*
+
