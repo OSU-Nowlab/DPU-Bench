@@ -17,7 +17,9 @@
     5. -x <warmup_iteration count>
 
 Config file example: see samples/configfiles for examples used in the paper
+
 Hostfile example: see samples/hostfiles for examples used in the paper
+
 Run Script example: see samples/RunScripts for an example used in the paper
 
 7. Benchmarks Supported (Direct algorithms as of November 05, 2024):
