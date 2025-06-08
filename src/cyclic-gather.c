@@ -217,8 +217,8 @@ int main(int argc, char **argv)
             wr = 0;
             g.post_send(&g, peer, &g.swr[peer]);
             g.poll_cqe(&g, 1, 0);
-            g.comp_end = MPI_Wtime();
-            g.comp_time = g.comp_end - g.comp_start;
+            g.comm_end = MPI_Wtime();
+            g.comm_time = g.comm_end - g.comm_start;
 
         }else{
             if(itercount == warm){
